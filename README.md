@@ -11,7 +11,7 @@ Among my key projects, I highlight the development of:
 With a solid background in Electrical Engineering and a Master's degree in Intelligent Systems and AI, I apply advanced knowledge in machine learning, data analysis, hypothesis testing, causal inference, and process optimization to create high-impact solutions.
 
 Social:
-https://github.com/JuniorFazzio
+https://github.com/JuniorFazzio   
 https://juniorfazzio.medium.com/
 
 ## Education
