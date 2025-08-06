@@ -1,15 +1,18 @@
 # Senior Data Scientist
 
 ## Profile
-Data Scientist with 3 years of experience in machine learning models for CRM and Fraud Risk. Knows Python, SQL,
-SageMaker, AWS and key librarys for modelling like Pandas, PySpark, Numpy, Scikit-Learn and others.   
+Data Scientist with over 4 years of experience, specializing in machine learning modeling and data analysis for CRM, Financial Fraud Risk mitigation, Webmedia and CDN. I have strong proficiency in Python, SQL, AWS SageMaker, GCP, Databricks, and libraries such as Pandas, PySpark, Numpy, Scikit-Learn, Matplotlib and Statsmodels. Throughout my career, I have developed machine learning models that directly impacted millions of customers, with measurable results in both fraud reduction and financial product optimization.
 
-Led the development of two fraud detection models: one inferring for 200,000 customers monthly the probability
-of fraud based on profile to grant access of financial products; and another model inferring for more than 3.5 million
-customers monthly the probability of fraud based on financial behavior to keeping the access of financial products like
-digital account, credit and other products, estimating to save more than 1 million monthly. Additionally, developed a
-heavy user model for financial products recommendations, positively affecting 100,000 customers. Electrical Engineer
-with a Master’s degree in Intelligent Systems and AI.
+Among my key projects, I highlight the development of:
+1. Fraud detection models that cover more than 3.5 million customers and generate an estimated return of over 1 million per month.
+2. Also responsible for creating a financial product recommendation model for heavy users, directly impacting 1 million customers. 
+3. Financial product approval model for fraud mitigation, impacting more than 200,000 customers monthly.
+
+With a solid background in Electrical Engineering and a Master's degree in Intelligent Systems and AI, I apply advanced knowledge in machine learning, data analysis, hypothesis testing, causal inference, and process optimization to create high-impact solutions.
+
+Social:
+https://github.com/JuniorFazzio
+https://juniorfazzio.medium.com/
 
 ## Education
 
@@ -31,7 +34,17 @@ portfolio update, team training and deadline management.
 
 ## Experience
 
-#### Data Scientist @ Compass.UOL | 2022 - Today
+#### Senior Data Scientist @ Globo | 2024 - Today
+
+- Maintain data ingestion pipelines into GCP/Bigquery, consuming more then 40Gb of data
+in json format.
+- Applied Causal Inference and Data Analysis with Python to identify CDN problems, specially applying
+matching and propensity score matching to measure ATT estimation.
+- Developed a Score of Quality of Video Consumption, to identify experience problems, impacting
+more then millions of video plays per day 
+
+
+#### Data Scientist @ Compass.UOL | 2022 - 2024
 
 - Developed a regression model using CatBoost to correct price dispersion and improve
 pricing strategies. Conducted in-depth data analysis to understand market
