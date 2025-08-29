@@ -41,7 +41,8 @@ in json format.
 - Applied Causal Inference and Data Analysis with Python to identify CDN problems, specially applying
 matching and propensity score matching to measure ATT estimation.
 - Developed a Score of Quality of Video Consumption, to identify experience problems, impacting
-more then millions of video plays per day 
+more then millions of video plays per day
+- Build Dahsboards in Looker Studio to report KPIs of transcoding and CDN for stakeholders
 
 
 #### Data Scientist @ Compass.UOL | 2022 - 2024
